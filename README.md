@@ -1,5 +1,49 @@
 ## Hi there 👋
 
+I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc in Electrical and Computer Engineering from Instituto Superior Técnico – University of Lisbon. My interests span across hardware, computer industry, control systems, and machine learning applied to textual analysis and visual recognition. I enjoy diving into the intricacies of technology and am always eager to learn and embrace new challenges.
+
+## Contact Information
+
+- **Email**: filipepicarra@tecnico.ulisboa.pt
+- **LinkedIn**: [Filipe Piçarra](https://linkedin.com/in/FilipePicarra)
+
+## Skills
+
+- **Electronics and Hardware**: Cadense, KiCad, Computer Assembly, Hardware Configuration, Electronic Repair, RISC-V Assembly
+- **Software and Programming**: IoT Applications, Server Management, Unix Based Operating Systems, Databases (SQL), Distributed Systems
+- **Media and Design**: Video and Audio Editing (Sony Vegas, Photoshop, Audition), 3D Modelling (FreeCAD, Cinema4D)
+
+## Experience
+
+### Teaching Assistant @ Instituto Superior Técnico (2023/2024)
+- **Concurrent Programming**: Teaching fundamental concepts on multi-threaded programs and parallel processing computer architectures in a C-based environment.
+- **Introduction to Computer Architecture**: Teaching the physical structure supporting the execution of programs, including types of processors, memory systems, and IO.
+
+### Summer Internship @ INESC-MN
+- Worked on textile-embedded triboelectric nanogenerators for biomechanical sensing.
+- Developed and configured hardware for data extraction and processing from textile sensors, gaining skills in EDA and distributed sensing applications.
+
+### Development Team @ HackerSchool
+- Oversight and coordination of electronics and computation systems projects.
+
+## Projects
+- **SECA - Sensor Ecosystem for Controlling Agriculture**: LoRa based sensor networks for agricultural applications.
+- **Textile-embedded Triboelectric Nanogenerators**: Developed hardware for biomechanical sensing.
+- **IR Controlled Security Systems**: Implemented security systems using IR technology.
+- **Home Assistant Integrations**: Created plug-n-play devices for smart home automation.
+- **Automated Social Network Services**: Automated tasks for platforms like Discord and Twitter.
+- **Home-Server Management**: Managed a home server hosting various services.
+
+## Academic Formation
+
+- **BSc, Electrical and Computer Engineering** @ Instituto Superior Técnico – University of Lisbon
+
+## Interests
+
+- **Tech**: Hardware, IoT, machine learning, textual analysis, visual recognition
+- **Hobbies**: Cinema, video games, tinkering with projects, designing new stuff
+
+
 <!--
 **fpicarras/fpicarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
