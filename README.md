@@ -1,17 +1,11 @@
 ## Hi there 👋
 
-I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc in Electrical and Computer Engineering from Instituto Superior Técnico – University of Lisbon. My interests span across hardware, computer industry, control systems, and machine learning applied to textual analysis and visual recognition. I enjoy diving into the intricacies of technology and am always eager to learn and embrace new challenges.
+I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc in Electrical and Computer Engineering from Instituto Superior Técnico – University of Lisbon. My interests span across hardware, IoT, control systems, and machine learning applied to textual analysis and visual recognition. I enjoy diving into the intricacies of technology and am always eager to learn and embrace new challenges.
 
 ## Contact Information
 
 - **Email**: filipepicarra@tecnico.ulisboa.pt
 - **LinkedIn**: [Filipe Piçarra](https://linkedin.com/in/FilipePicarra)
-
-## Skills
-
-- **Electronics and Hardware**: Cadense, KiCad, Computer Assembly, Hardware Configuration, Electronic Repair, RISC-V Assembly
-- **Software and Programming**: IoT Applications, Server Management, Unix Based Operating Systems, Databases (SQL), Distributed Systems
-- **Media and Design**: Video and Audio Editing (Sony Vegas, Photoshop, Audition), 3D Modelling (FreeCAD, Cinema4D)
 
 ## Experience
 
@@ -34,14 +28,7 @@ I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc i
 - **Automated Social Network Services**: Automated tasks for platforms like Discord and Twitter.
 - **Home-Server Management**: Managed a home server hosting various services.
 
-## Academic Formation
-
-- **BSc, Electrical and Computer Engineering** @ Instituto Superior Técnico – University of Lisbon
-
-## Interests
-
-- **Tech**: Hardware, IoT, machine learning, textual analysis, visual recognition
-- **Hobbies**: Cinema, video games, tinkering with projects, designing new stuff
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpicarras&show_icons=true&theme=radical)
 
 
 <!--
