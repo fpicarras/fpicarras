@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=fpicarras&show_icons=true&theme=radical" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpicarras&layout=compact&theme=radical" width="100%" />
+    </div>
     <div style="flex: 1;">
         I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc in Electrical and Computer Engineering from Instituto Superior Técnico – University of Lisbon. My interests span across hardware, IoT, control systems, and machine learning applied to textual analysis and visual recognition. I enjoy diving into the intricacies of technology and am always eager to learn and embrace new challenges.
-    </div>
-    <div style="display: flex; flex-direction: row;">
-          <img src="https://github-readme-stats.vercel.app/api?username=fpicarras&show_icons=true&theme=radical" width="50%" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpicarras&layout=compact&theme=radical" width="50%" />
     </div>
 </div>
 
