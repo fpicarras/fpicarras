@@ -2,6 +2,11 @@
 
 I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc in Electrical and Computer Engineering from Instituto Superior Técnico – University of Lisbon. My interests span across hardware, IoT, control systems, and machine learning applied to textual analysis and visual recognition. I enjoy diving into the intricacies of technology and am always eager to learn and embrace new challenges.
 
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=fpicarras&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpicarras&layout=compact&theme=radical" />
+</div>
+
 ## Contact Information
 
 - **Email**: filipepicarra@tecnico.ulisboa.pt
@@ -27,9 +32,6 @@ I'm Filipe Piçarra, a 21-year-old tech enthusiast from Portugal. I have a BSc i
 - **Home Assistant Integrations**: Created plug-n-play devices for smart home automation.
 - **Automated Social Network Services**: Automated tasks for platforms like Discord and Twitter.
 - **Home-Server Management**: Managed a home server hosting various services.
-
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpicarras&show_icons=true&theme=radical)
-
 
 <!--
 **fpicarras/fpicarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
